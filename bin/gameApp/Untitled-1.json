@@ -1,0 +1,12 @@
+{
+	"My Personal Data": [{
+		"idNumber": 204093,
+		"firstName": "Jan Phillip",
+		"lastName": "Dacallos",
+		"middleName": "Morallos",
+		"yearLevel": 3,
+		"contactNumber": "09773440291",
+		"emailAddress": "jphillipdacallos@gmail.com",
+		"isEnrolled": true
+	}]
+}
